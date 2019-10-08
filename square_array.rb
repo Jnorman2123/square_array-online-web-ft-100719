@@ -11,4 +11,4 @@ def square_array_with_collect(array)
   array.collect do |item|
     item ** 2
   end
-end 
+end
